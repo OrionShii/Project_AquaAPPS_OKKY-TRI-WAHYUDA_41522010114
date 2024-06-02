@@ -36,10 +36,10 @@ After installing the JDK, set the JAVA_HOME environment variable and add the bin
 - Open System Properties.
 - Go to the Advanced tab and click on Environment Variables.
 - Under System Variables, click New and add JAVA_HOME with the path to your JDK installation.
-- Find the Path variable, click Edit, and add %JAVA_HOME%\bin.
+- Find the Path variable, click Edit, and add ```%JAVA_HOME%\bin.```
 
 **For macOS/Linux:**
-Add the following lines to your ~/.bash_profile (or ~/.zshrc for zsh):
+Add the following lines to your ```~/.bash_profile (or ~/.zshrc for zsh):```
 ```
 export JAVA_HOME=/path/to/your/jdk
 export PATH=$JAVA_HOME/bin:$PATH
