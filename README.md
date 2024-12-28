@@ -7,7 +7,13 @@ Aqua is an Android-based mobile application that provides a variety of interacti
 - Barcode Scanning: Integration with com.journeyapps.barcodescanner for barcode scanning.
 - Notifications: Supports push notifications.
 - Easy Navigation: Various activities handling different features within the app.
-  
+
+![Screenshot 2024-04-24 184150](https://github.com/user-attachments/assets/be52d64e-2c95-4a86-8516-c514042912ea)
+![Screenshot 2024-04-16 184310](https://github.com/user-attachments/assets/bb3d9461-d9dd-4208-937b-d55dbcbaf134)
+![Screenshot 2024-04-28 232516](https://github.com/user-attachments/assets/65e9f26d-1a1f-4370-892b-02cf177465af)
+![Screenshot 2024-04-28 232740](https://github.com/user-attachments/assets/50d67107-3222-47d8-bc02-7f6d357cfdbe)
+
+
 **System Requirements**
 - Android Studio (latest version).
 - Java Development Kit (JDK) version 8 or higher.
@@ -60,3 +66,5 @@ export PATH=$JAVA_HOME/bin:$PATH
 **7. Run the Application**
 - Connect your Android device or use an emulator.
 - Click the Run button (play icon) in Android Studio to build and run the app.
+
+
